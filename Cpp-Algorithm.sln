@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Iterator", "03. Iterato
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Stack", "04. Stack\04. Stack.vcxproj", "{AF2C7A86-50B5-4A33-B18B-36A214D20A6E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05. Queue", "05. Queue\05. Queue.vcxproj", "{F0A53E4E-823E-4E1D-A592-2A206364C287}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{AF2C7A86-50B5-4A33-B18B-36A214D20A6E}.Release|x64.Build.0 = Release|x64
 		{AF2C7A86-50B5-4A33-B18B-36A214D20A6E}.Release|x86.ActiveCfg = Release|Win32
 		{AF2C7A86-50B5-4A33-B18B-36A214D20A6E}.Release|x86.Build.0 = Release|Win32
+		{F0A53E4E-823E-4E1D-A592-2A206364C287}.Debug|x64.ActiveCfg = Debug|x64
+		{F0A53E4E-823E-4E1D-A592-2A206364C287}.Debug|x64.Build.0 = Debug|x64
+		{F0A53E4E-823E-4E1D-A592-2A206364C287}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0A53E4E-823E-4E1D-A592-2A206364C287}.Debug|x86.Build.0 = Debug|Win32
+		{F0A53E4E-823E-4E1D-A592-2A206364C287}.Release|x64.ActiveCfg = Release|x64
+		{F0A53E4E-823E-4E1D-A592-2A206364C287}.Release|x64.Build.0 = Release|x64
+		{F0A53E4E-823E-4E1D-A592-2A206364C287}.Release|x86.ActiveCfg = Release|Win32
+		{F0A53E4E-823E-4E1D-A592-2A206364C287}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
