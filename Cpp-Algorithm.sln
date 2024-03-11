@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09. FunctionObject", "09. F
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10. HashTable", "10. HashTable\10. HashTable.vcxproj", "{E268321A-116D-43C7-91BE-8A337793D82E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11. DesignTechnique", "11. DesignTechnique\11. DesignTechnique.vcxproj", "{D2815C2D-CAEE-4018-BE1B-842FB34AE57E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{E268321A-116D-43C7-91BE-8A337793D82E}.Release|x64.Build.0 = Release|x64
 		{E268321A-116D-43C7-91BE-8A337793D82E}.Release|x86.ActiveCfg = Release|Win32
 		{E268321A-116D-43C7-91BE-8A337793D82E}.Release|x86.Build.0 = Release|Win32
+		{D2815C2D-CAEE-4018-BE1B-842FB34AE57E}.Debug|x64.ActiveCfg = Debug|x64
+		{D2815C2D-CAEE-4018-BE1B-842FB34AE57E}.Debug|x64.Build.0 = Debug|x64
+		{D2815C2D-CAEE-4018-BE1B-842FB34AE57E}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2815C2D-CAEE-4018-BE1B-842FB34AE57E}.Debug|x86.Build.0 = Debug|Win32
+		{D2815C2D-CAEE-4018-BE1B-842FB34AE57E}.Release|x64.ActiveCfg = Release|x64
+		{D2815C2D-CAEE-4018-BE1B-842FB34AE57E}.Release|x64.Build.0 = Release|x64
+		{D2815C2D-CAEE-4018-BE1B-842FB34AE57E}.Release|x86.ActiveCfg = Release|Win32
+		{D2815C2D-CAEE-4018-BE1B-842FB34AE57E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
