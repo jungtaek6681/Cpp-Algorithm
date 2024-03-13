@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12. Sorting", "12. Sorting\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13. Searching", "13. Searching\13. Searching.vcxproj", "{0F303037-4A29-4AA3-B4A4-2B6A2EA34812}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14. ShortestPath", "14. ShortestPath\14. ShortestPath.vcxproj", "{EFBAA9A2-327A-445F-9A6B-70E9E91B9C22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{0F303037-4A29-4AA3-B4A4-2B6A2EA34812}.Release|x64.Build.0 = Release|x64
 		{0F303037-4A29-4AA3-B4A4-2B6A2EA34812}.Release|x86.ActiveCfg = Release|Win32
 		{0F303037-4A29-4AA3-B4A4-2B6A2EA34812}.Release|x86.Build.0 = Release|Win32
+		{EFBAA9A2-327A-445F-9A6B-70E9E91B9C22}.Debug|x64.ActiveCfg = Debug|x64
+		{EFBAA9A2-327A-445F-9A6B-70E9E91B9C22}.Debug|x64.Build.0 = Debug|x64
+		{EFBAA9A2-327A-445F-9A6B-70E9E91B9C22}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFBAA9A2-327A-445F-9A6B-70E9E91B9C22}.Debug|x86.Build.0 = Debug|Win32
+		{EFBAA9A2-327A-445F-9A6B-70E9E91B9C22}.Release|x64.ActiveCfg = Release|x64
+		{EFBAA9A2-327A-445F-9A6B-70E9E91B9C22}.Release|x64.Build.0 = Release|x64
+		{EFBAA9A2-327A-445F-9A6B-70E9E91B9C22}.Release|x86.ActiveCfg = Release|Win32
+		{EFBAA9A2-327A-445F-9A6B-70E9E91B9C22}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
